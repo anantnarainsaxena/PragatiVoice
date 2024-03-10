@@ -32,7 +32,7 @@ def wishMe():
     else:
         speak("Good Evening!!")
 
-    speak("I am Pragati , how may i help you")
+    speak("I am Pragati , your AI assistant, how may i help you")
 
 def takeCommand():
     #Takes microphonic input from the user and converts it into string format
